@@ -1,1 +1,19 @@
 
+fun main()
+{
+    //formataçao de string
+    val string="xkaidi´mclkaiskisddulak ";
+
+    val str2="""sdasdsadasd
+        |sdasdasdasd
+        |sdasdasd
+        |zaskljdlj
+        |sdçaksjdlas
+        |sdasjdoáp
+        |sdiosodo
+    """.trimMargin()
+    println(str2);
+    println();
+    println(" o tamanho da string e ${string.length}")
+
+
